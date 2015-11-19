@@ -1,0 +1,5 @@
+# Ignore these files #
+._*
+.DS_Store
+.Rapp.history
+.Rhistory
